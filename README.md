@@ -8,7 +8,7 @@ Key features of DougAI include:
 
 1. **Privacy-First Approach:** Ensures that no private information is stored on the system, empowering users with full control over their data.
 2. **Distributed Computing:** Utilizes a network of user-contributed resources to perform complex AI computations.
-3. **$DOUG Token:** A utility token that facilitates access to computing power and rewards contributors.
+3. **$DOUGAI Token:** A utility token that facilitates access to computing power and rewards contributors.
 4. **Collaborative Inference and Fine-tuning:** Enables multiple users to work together on large language models over the Internet while maintaining data privacy.
 5. **Staking Mechanism:** Allows token holders to earn rewards by participating in network security and governance.
 
@@ -39,7 +39,7 @@ DougAI addresses these challenges by creating a decentralized, distributed compu
 3. **Cost-Effective Access:** Researchers and developers can access computational resources at a fraction of the cost of traditional solutions, without compromising data security.
 4. **Democratization:** By lowering barriers to entry and prioritizing privacy, DougAI enables a wider range of individuals and organizations to use and participate in AI development.
 5. **Scalability:** The distributed nature of our network allows it to grow organically with demand while maintaining robust privacy protections.
-6. **Incentivization:** Contributors are rewarded with $DOUG tokens, creating a sustainable ecosystem that values both computational resources and user privacy.
+6. **Incentivization:** Contributors are rewarded with $DOUGAI tokens, creating a sustainable ecosystem that values both computational resources and user privacy.
 
 By leveraging blockchain technology and innovative distributed computing techniques with a focus on privacy, DougAI aims to create a more accessible, efficient, secure, and collaborative environment for AI computation. This approach not only accelerates innovation in the field but also ensures that progress doesn't come at the cost of individual privacy.
 
@@ -58,10 +58,10 @@ DougAI's infrastructure is built on a decentralized network of nodes just like t
 
 #### 3.2 Blockchain Integration and Internal Economy
 
-DougAI leverages blockchain technology to create a robust internal economy based on the $DOUG token, implemented on the Solana blockchain for its high throughput and low transaction costs. This system facilitates:
+DougAI leverages blockchain technology to create a robust internal economy based on the $DOUGAI token, implemented on the Solana blockchain for its high throughput and low transaction costs. This system facilitates:
 
-- Token-based transactions: Users pay for AI computations with $DOUG tokens
-- Resource provider rewards: Contributors of computing power are compensated in $DOUG tokens
+- Token-based transactions: Users pay for AI computations with $DOUGAI tokens
+- Resource provider rewards: Contributors of computing power are compensated in $DOUGAI tokens
 - Automated payments: Smart contracts manage the flow of tokens between users and resource providers
 - Transparent pricing: Computational costs are clearly defined and executed on-chain
 - Instant settlements: Rapid transaction finality ensures immediate compensation for resource providers
@@ -72,16 +72,16 @@ Smart contracts also govern:
 - Governance processes
 
 
-### 4. The $DOUG Token
+### 4. The $DOUGAI Token
 
 #### 4.1 Token Utility
 
-The $DOUG token is central to the DougAI ecosystem, serving multiple purposes:
+The $DOUGAI token is central to the DougAI ecosystem, serving multiple purposes:
 
-- **Access to Compute Resources:** Users spend $DOUG to access AI computational power on the network.
-- **Reward Mechanism:** Contributors earn $DOUG for providing computational resources.
+- **Access to Compute Resources:** Users spend $DOUGAI to access AI computational power on the network.
+- **Reward Mechanism:** Contributors earn $DOUGAI for providing computational resources.
 - **Governance:** Token holders can participate in platform decision-making processes.
-- **Staking:** Users can stake $DOUG to earn additional rewards and secure the network.
+- **Staking:** Users can stake $DOUGAI to earn additional rewards and secure the network.
 
 #### 4.2 Staking Mechanism
 
@@ -92,7 +92,7 @@ Staking plays a crucial role in the DougAI ecosystem:
 - **Governance Rights:** Staked tokens grant voting power in platform governance decisions.
 - **Lock-up Periods:** Various staking durations are available, with longer periods offering higher rewards.
 
-The $DOUG token, built on the Solana SPL token standard, creates a robust economic model that incentivizes participation, ensures fair compensation, and drives the growth of the DougAI platform while maintaining its decentralized nature.
+The $DOUGAI token, built on the Solana SPL token standard, creates a robust economic model that incentivizes participation, ensures fair compensation, and drives the growth of the DougAI platform while maintaining its decentralized nature.
 
 
 ### 5. Roadmap
@@ -102,7 +102,7 @@ DougAI's development and rollout will proceed in three phases, rapidly building 
 **Phase 1: Foundation (Q3-Q4 2024)**
 - Launch of the core DougAI infrastructure
 - Implementation of basic distributed computing capabilities
-- Release of $DOUG token on Solana blockchain
+- Release of $DOUGAI token on Solana blockchain
 - Initial staking mechanism deployment
 - Integration of fundamental privacy-preserving computation techniques
 
@@ -111,7 +111,7 @@ DougAI's development and rollout will proceed in three phases, rapidly building 
 - Expansion of the node network and improvement of load balancing
 - Implementation of the internal economy and payment system
 - Introduction of collaborative fine-tuning capabilities
-- Launch of the governance platform for $DOUG token holders
+- Launch of the governance platform for $DOUGAI token holders
 - Launch of the first set of AI models for distributed inference
 
 **Phase 3: Enhancement (Q3-Q4 2025)**
